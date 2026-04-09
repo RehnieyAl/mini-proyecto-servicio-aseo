@@ -1,4 +1,4 @@
-# Empreza - Servicio de limpieza - Proyecto Bootcamp desde el 1 semana hasrta la semana 5
+# Empreza - Servicio de limpieza - Proyecto Bootcamp desde el 1 semana hasta la semana 5
 
 ## Descripción
 Aplicación para una empresa de limpieza de hogar que permite:
